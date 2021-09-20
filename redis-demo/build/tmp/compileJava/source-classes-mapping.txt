@@ -1,0 +1,8 @@
+com/example/demo/StockDetail.java
+ com.example.demo.StockDetail
+com/example/demo/MoreDataSet.java
+ com.example.demo.MoreDataSet
+com/example/demo/DemoApplication.java
+ com.example.demo.DemoApplication
+com/example/demo/CreditCard.java
+ come.example.demo.CreditCard
